@@ -74,10 +74,33 @@
 ## 📂 Projects
 
 ### 📄 Resume Analyzer
-AI-powered resume analyzer using **Natural Language Processing (NLP)** to extract skills and match resumes with job requirements.
+AI-based application that analyzes resumes using **Natural Language Processing (NLP)** to extract skills and match them with job requirements.
+
+**Features**
+- Resume parsing & skill extraction  
+- Keyword matching with job descriptions  
+- Resume improvement insights  
+
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
 
 ### 📧 Spam Email Classifier
-Built a machine learning model to **detect spam emails using NLP techniques** with high classification accuracy.
+Machine learning model that classifies emails as **Spam or Not Spam** using text analysis and NLP techniques.
+
+**Features**
+- Email text preprocessing  
+- Machine learning classification  
+- Accurate spam detection  
+
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00BCD4?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
 
 ---
 
