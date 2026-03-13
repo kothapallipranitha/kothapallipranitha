@@ -96,6 +96,7 @@ AI-based application that analyzes resumes using **Natural Language Processing (
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00BCD4?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
+
 Machine learning model that classifies emails as **Spam or Not Spam** using text analysis and NLP techniques.
 
 **Features**
